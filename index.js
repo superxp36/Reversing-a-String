@@ -7,4 +7,5 @@ const newStr = str
     .reverse()
     .join('');
 
+//Console Output
 console.log(newStr);
